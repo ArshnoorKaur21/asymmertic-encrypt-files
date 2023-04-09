@@ -1,0 +1,8 @@
+Smart buildings generate a large volume of valuable building data about how they are being utilized. 
+Analyzing this data can give you insight regarding usage patterns and trends, so that you can make informed 
+decisions on how to optimize your building, bringing the following advantages:
+
+Increased productivity
+
+Delivering a space that facilitates good indoor air quality, physical comfort, security, 
+sanitation, lighting, efficient
